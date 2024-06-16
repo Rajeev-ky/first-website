@@ -10,6 +10,7 @@ D_plot <- x |>
        subtitle = "'Round' carat values like 1, 1.5 and 2 are more common.",
        x = "Carat",
        y = "Price") +
-  theme_minimal(base_size = 10)
+  theme_minimal()
 
-ggsave("size_v_weight.png", D_plot, width = 8, height = 6)
+ggsave("size_v_weight.png", D_plot, width = 9, height = 5, units = "in")
+
