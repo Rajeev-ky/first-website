@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-Rajeev Kumar Yadav
+## About Me
+My name is **Rajeev Kumar yadav**, and I graduated from *Shanker Dev College*.
+
+
+
+
+
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
