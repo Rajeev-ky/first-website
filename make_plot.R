@@ -12,4 +12,4 @@ D_plot <- x |>
        y = "Price") +
   theme_minimal(base_size = 10)
 
-ggsave("size_v_weight.png", D_plot, width = 4, height = 3)
+ggsave("size_v_weight.png", D_plot, width = 8, height = 6)
